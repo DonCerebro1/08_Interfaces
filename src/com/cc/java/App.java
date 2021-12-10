@@ -1,4 +1,8 @@
 package com.cc.java;
+
+import com.cc.java.bees.*;
+
+
 public class App {
 
     // static Honeybee worker;
@@ -21,9 +25,7 @@ public class App {
 
     ausgabe("------aber: ---------");
 
-    // Das sollte eigentlich nicht gehen!
-    HoneyBee bee = new HoneyBee();
-    ausgabe(bee.doYourJob());
+  
   
     }
 
