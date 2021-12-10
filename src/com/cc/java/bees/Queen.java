@@ -8,7 +8,7 @@ public class Queen extends HoneyBee{
 
     @Override
     public String fly() {
-        return " I believe, I can fly";
+        return "I am a queen bee, I fly at 15 mph!";
     }
 
 }
